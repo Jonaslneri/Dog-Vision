@@ -1,0 +1,2 @@
+# Dog-Vision
+Neural network capable of detecting a dog's breed based on it's picture. Currently trained on 120 different breeds.
